@@ -1,0 +1,16 @@
+cloudSql:
+    connection_name: $connection_name
+serviceAccount:
+    create: false
+    name: $service_account
+apiImage:
+    repository: $api_reference
+    tag: $tag
+monitorImage:
+    repository: $monitor_reference
+    tag: $tag
+nodeSelector: { iam.gke.io/gke-metadata-server-enabled: "true"}
+mysql:
+    host: localhost
+    port: 9910
+namespace: ""
