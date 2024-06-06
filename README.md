@@ -4,7 +4,7 @@
 
 PrivacyGo Data Clean Room (PGDCR) is an open-source project for easily building and deploying data collaboration framework to the cloud using trusted execution environments (TEEs).
 It allows users to easily collaborate on private datasets without leaking privacy of individual data.
-PGDCR achieves this by combinding different privacy-enhancing technologies (PETs) in different programming stages.
+PGDCR achieves this by combining different privacy-enhancing technologies (PETs) in different programming stages.
 
 In summary, PGDCR is great tool for data collaboration with the following features.
 
