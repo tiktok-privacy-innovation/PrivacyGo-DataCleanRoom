@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is now a part of Confidential Computing Consortium (CCC) under Linux Foundation, and maintained in a separate repo: https://github.com/manatee-project/manatee
+
 # PrivacyGo Data Clean Room
 
 > Note: we are releasing an alpha version, which may miss some necessary features. 
